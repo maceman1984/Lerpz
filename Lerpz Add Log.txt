@@ -1,0 +1,5 @@
+The following is a list of items that I added and/or changed to/in my build of the Lerpz tutorial. 
+
+-Added a hidden Boss section in the rear of the arena with an overpowered boss. Reward for beating the boss is significant though. 
+-added floating platform bridge to the upper section of the of the map with the "Trees" to get back down to the ship level. 
+-Removed box spring and changed one jump tube to a drop tube to make it easier to get back to the ground level.
